@@ -1,0 +1,73 @@
+City1,City2,Length,Color
+Vancouver,Calgary,3,-
+Vancouver,Seattle,1,-
+Seattle,Calgary,4,-
+Seattle,Portland,1,-
+Seattle,Helena,6,y
+Portland,Salt Lake City,6,b
+Portland,San Francisco,5,gp
+San Francisco,Los Angeles,3,yp
+San Francisco,Salt Lake City,5,ow
+Los Angeles,Las Vegas,2,-
+Los Angeles,Phoenix,3,-
+Los Angeles,El Paso,6,k
+Calgary,Winnipeg,6,w
+Calgary,Helena,4,-
+Helena,Winnipeg,4,b
+Helena,Duluth,6,o
+Helena,Omaha,5,r
+Helena,Denver,4,g
+Helena,Salt Lake City,3,p
+Salt Lake City,Denver,3,ry
+Salt Lake City,Las Vegas,3,o
+Phoenix,Denver,4,w
+Phoenix,Santa Fe,3,-
+Phoenix,El Paso,3,-
+Winnipeg,Sault St. Marie,6,-
+Winnipeg,Duluth,4,k
+Denver,Omaha,2,-
+Denver,Kansas City,2,-
+Denver,Oklahoma City,2,-
+Santa Fe,Oklahoma City,2,-
+Santa Fe,El Paso,2,-
+Duluth,Sault St. Marie,3,-
+Duluth,Toronto,6,p
+Duluth,Chicago,3,r
+Duluth,Omaha,2,-
+Omaha,Chicago,4,b
+Omaha,Kansas City,1,-
+Kansas City,Saint Louis,2,bp
+Oklahoma City,Little Rock,2,-
+Oklahoma City,Dallas,2,-
+Dallas,Little Rock,2,-
+Dallas,Houston,1,-
+Houston,New Orleans,2,-
+Sault St. Marie,Montreal,5,k
+Sault St. Marie,Toronto,2,-
+Chicago,Toronto,4,w
+Chicago,Pittsburgh,3,bo
+Chicago,Saint Louis,2,gw
+Saint Louis,Pittsburgh,5,g
+Saint Louis,Nashville,2,-
+Saint Louis,Little Rock,2,-
+Little Rock,Nashville,3,w
+Little Rock,New Orleans,3,g
+New Orleans,Atlanta,4,oy
+New Orleans,Miami,6,r
+Toronto,Montreal,3,-
+Toronto,Pittsburgh,2,-
+Pittsburgh,New York,2,gw
+Pittsburgh,Washington,2,-
+Pittsburgh,Raleigh,2,-
+Pittsburgh,Nashville,4,y
+Nashville,Raleigh,3,k
+Nashville,Atlanta,1,-
+Atlanta,Charleston,2,-
+Atlanta,Miami,5,b
+Montreal,New York,2,-
+Montreal,Boston,2,-
+Boston,New York,3,b
+New York,Washington,2,ko
+Washington,Raleigh,2,-
+Raleigh,Charleston,2,-
+Charleston,Miami,4,p
